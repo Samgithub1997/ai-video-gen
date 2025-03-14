@@ -20,3 +20,5 @@ AI video generator
 ![Create New Video 1](./public/3.png "Create New Video 1")
 
 ![Create New Video 2](./public/4.png "Create New Video 2")
+
+![Preview](./public/5.png "Preview")

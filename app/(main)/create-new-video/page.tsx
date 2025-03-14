@@ -64,10 +64,10 @@ function CreateNewVideo() {
       });
 
       console.log("✅ API Response:", result.data);
-      setPreviewDisplay(true);
     } catch (error) {
       console.error("❌ API Error:", error);
     }
+    setPreviewDisplay(true);
   };
 
   return (

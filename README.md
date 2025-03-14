@@ -1,2 +1,3 @@
 # ai-video-gen
-AI video generator 
+
+AI video generator
